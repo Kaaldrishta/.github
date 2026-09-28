@@ -1,6 +1,7 @@
+<img width="1983" height="793" alt="file_000000001f08821184c377bec3d2e216" src="https://github.com/user-attachments/assets/82cfb1d1-d87c-4b6f-b304-84cafb6f63bb" />
 <div align="center">
 
-# 🛰️ Senthil Aeronautics & Space Industries
+# Senthil Aeronautics & Space Industries
 ### Level-5 Autonomous Swarm Intelligence for Critical Infrastructure & Defense
 
 ![Rust](https://img.shields.io/badge/core-bare--metal%20Rust-dea584?logo=rust)
