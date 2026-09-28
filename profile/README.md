@@ -20,7 +20,7 @@ what we build, what we've proven, and where we're going.
 
 ---
 
-## 🔭 What We Do
+## What We Do
 
 Senthil builds **autonomous mission-intelligence platforms** for the places GPS
 can't reach and humans shouldn't go. From a 1 kHz neuromorphic flight controller
@@ -36,7 +36,7 @@ MISSION INTENT ──► L3 GOVERNANCE (1 Hz) ──► L2 PERCEPTION (50 Hz) �
 ```
 
 
-## 📊 Verified, Not Promised
+## Verified
 
 - **76/76** deterministic Rust workspace tests · **9/9** dual-silicon HIL certifications
 - **1,000 Hz** hard real-time loop in **360–404 µs** (σ = 1.5 µs jitter) on ESP32-S3
@@ -61,21 +61,21 @@ else shadowed and flagged to a human commander. System-wide E-Stop implemented
 as a first-class RTA override. Compile-time SCOMET export tiering. A strict
 certification freeze line separates flight silicon from platform software.
 
-## 🔒 Repository Policy
+## Repository Policy
 
 Flight-critical source remains **private** under export-control discipline and
 certification governance. We release selectively, verification reports, golden
 reference oracles, and developer tooling, after internal audit. For research
 collaboration or source access requests, contact us below.
 
-## 🧭 Roadmap
+## Roadmap
 
 - **Now**: TRL 6 outdoor free-flight campaign; first industrial pilots
   (warehouse → construction → gated dam track → mining → pipelines).
 - **2027**: STM32H747 production silicon (software-only port); SATCOM burst + TERCOM
   midcourse navigation, terminal comms-silence engagement.
 
-## 📚 Research Integrity
+## Research Integrity
 
 We build on published science and credit it explicitly:
 **sLTC neuron**: Vanhalle & Gielen, IEEE ICECS 2025 · **GMMap**: arXiv:2306.03740 ·
@@ -84,7 +84,7 @@ We build on published science and credit it explicitly:
 safety-enveloped readout control loop, swarm governance, quantization and
 deployment engineering, and the mission-intelligence platform above it.
 
-## 📬 Contact
+## Contact
 
 | | |
 | :-- | :-- |
