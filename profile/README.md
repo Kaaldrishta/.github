@@ -89,8 +89,8 @@ deployment engineering, and the mission-intelligence platform above it.
 
 | | |
 | :-- | :-- |
-| **Email** | senthil.drones@gmail.com |
-| **LinkedIn** | [linkedin.com/in/senthil](https://linkedin.com/company/senthil-aeronautics-space-industries/about/) |
+| **Emails you can reach out too** | akkmit9@gmail.com, contact@thesenthil.com |
+| **LinkedIn** | [linkedin.com/company/senthil](https://linkedin.com/company/senthil-aeronautics-space-industries/about/) |
 | **Founder GitHub** | [@HmbleCreator](https://github.com/HmbleCreator) |
 
 ---
