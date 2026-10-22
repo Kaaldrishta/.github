@@ -18,6 +18,7 @@
 what we build, what we've proven, and where we're going.
 
 </div>
+<img width="720" height="405" alt="senthil-aim-loop" src="https://github.com/user-attachments/assets/e0dd1417-8d77-4ef5-8fd2-6a64acf21612" />
 
 ---
 
